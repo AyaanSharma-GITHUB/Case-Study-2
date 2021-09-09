@@ -1,0 +1,55 @@
+.div1 {
+    box-shadow: 15px 15px 20px 0;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(46, 150, 163);
+    border-radius: 10px;
+    margin-right :20;
+}
+
+b {
+    color: purple;
+}
+
+#divInADiv1 {
+    background-color:rgb(36, 82, 36);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+#car {
+
+    height: 150px;
+    height: 150px;
+    margin-left: 20px;
+    border: black;
+    border-style: dashed;
+
+}
+
+#bb {
+
+    height: 150px;
+    height: 150px;
+    margin-left: 20px;
+    border: black;
+    border-style: dashed;
+
+}
+
+#high {
+
+    height: 150px;
+    height: 150px;
+    margin-left: 20px;
+    border: black;
+    border-style: dashed;
+
+}
+
+body{
+
+    background-color: mediumaquamarine;
+
+}
